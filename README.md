@@ -13,7 +13,7 @@
 
 <br>
 
-- Main Repository
+- Study
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pengisblue&repo=AlgorithmStudy&theme=shadow_blue&show_icons=true)](https://github.com/pengisblue/AlgorithmStudy)
 
