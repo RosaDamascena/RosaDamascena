@@ -33,6 +33,10 @@
  <img alt="python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white&color=3776AB"/>
  
  <img alt="c" src ="https://img.shields.io/badge/c-3776AB.svg?&style=for-the-badge&logo=c&logoColor=white&color=A8B9CC"/>
+
+ <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus">
+
+ <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-%23F7DF1E?logo=javascript&logoColor=white">
 </div>
 
 ## Study
