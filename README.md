@@ -34,9 +34,10 @@
  
  <img alt="c" src ="https://img.shields.io/badge/c-3776AB.svg?&style=for-the-badge&logo=c&logoColor=white&color=A8B9CC"/>
 
- <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus">
+ <img alt="C++" src ="https://img.shields.io/badge/c++-3776AB.svg?&style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C"/>
 
- <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-%23F7DF1E?logo=javascript&logoColor=white">
+ <img alt="Javascript" src ="https://img.shields.io/badge/javascript-3776AB.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E"/>
+ 
 </div>
 
 ## Study
