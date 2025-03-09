@@ -27,18 +27,12 @@
 
 <img alt="vscode" src ="https://img.shields.io/badge/vscode-3776AB.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white&"/>
 
-### 🥽 Embedded
+### 🥽 Programming Language
 
 <div>
  <img alt="python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white&color=3776AB"/>
  
  <img alt="c" src ="https://img.shields.io/badge/c-3776AB.svg?&style=for-the-badge&logo=c&logoColor=white&color=A8B9CC"/>
- 
- <img alt="raspberrypi" src ="https://img.shields.io/badge/RaspberryPi-3776AB.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white&color=A22846"/>
- 
- <img alt="arduino" src ="https://img.shields.io/badge/Arduino-3776AB.svg?&style=for-the-badge&logo=Arduino&logoColor=white&color=00878F"/>
- 
- <img alt="RealVNC" src ="https://img.shields.io/badge/RealVNC-3776AB.svg?&style=for-the-badge&logo=RealVNC&logoColor=white&color=blue"/>
 </div>
 
 ## Study
